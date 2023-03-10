@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62b26c33.css",
+    "main.js": "/static/js/main.25f6e974.js",
+    "static/media/me.png": "/static/media/me.251f3e3cac3db274a3d3.png",
+    "static/media/me-about.jpeg": "/static/media/me-about.0ccf90c7e5f6dd1d41dd.jpeg",
+    "static/media/Nikola Rikalo CV_FINAL.pdf": "/static/media/Nikola Rikalo CV_FINAL.35a0230e766b1d086430.pdf",
+    "static/media/portfolio1.png": "/static/media/portfolio1.723b429358e0740c9271.png",
+    "index.html": "/index.html",
+    "main.62b26c33.css.map": "/static/css/main.62b26c33.css.map",
+    "main.25f6e974.js.map": "/static/js/main.25f6e974.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62b26c33.css",
+    "static/js/main.25f6e974.js"
+  ]
+}
